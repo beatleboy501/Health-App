@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI and Body Fat Calculator</string>
+    <string name="edit_message">lbs. </string>
+    <string name="button_send">Calculate</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">BMI and Body Fat Calculator</string>
+    <string name="title_activity_display_message">BMI and Body Fat Calculator</string>
+    <string name="edit_height">in.</string>
+    <string name="edit_waist">in.</string>
+    <string name="edit_hips">in.</string>
+    <string name="height_label">Enter your height in inches: </string>
+    <string name="weight_label">Enter your weight in pounds: </string>
+    <string name="waist_label">Enter the circumference of your\nWaist in inches: </string>
+    <string name="hips_label">Enter the circumfrence of your\nHips in inches: </string>
+</resources>
