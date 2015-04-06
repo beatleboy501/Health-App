@@ -22,12 +22,13 @@ public class DisplayMessageActivity extends Activity
         // Get the message from the intent
         Intent intent = getIntent();
         String message = intent.getStringExtra(MainActivity.EXTRA_MESSAGE);
+        String message2 = intent.getStringExtra(MainActivity.EXTRA_MESSAGE2);
 
         // Create the text view
         TextView textView = new TextView(this);
         textView.setTextSize(40);
-        textView.setText(message);
-        
+        textView.setText("You have a BMI of: " + message + "Your estimated Body Fat percentage is: " + message2);
+
         // Set the text view as the activity layout
         setContentView(textView);
         
