@@ -1,0 +1,7 @@
+#Wed Feb 08 02:24:46 EST 2017
+base.0=/Users/andrew/practice/fastestpath/client/android/Health_App/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_60b670e2b94c46fb28275c2354445dc52476140e
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/andrew/practice/fastestpath/client/android/Health_App/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d794f8340e9fdfb7137dbc37a57d5a93881c6945/classes.dex
+base.1=/Users/andrew/practice/fastestpath/client/android/Health_App/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d794f8340e9fdfb7137dbc37a57d5a93881c6945
+file.0=/Users/andrew/practice/fastestpath/client/android/Health_App/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_60b670e2b94c46fb28275c2354445dc52476140e/classes.dex

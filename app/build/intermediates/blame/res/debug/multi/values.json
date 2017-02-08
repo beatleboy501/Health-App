@@ -1,0 +1,335 @@
+[
+    {
+        "outputFile": "/Users/andrew/practice/fastestpath/client/android/Health_App/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/andrew/practice/fastestpath/client/android/Health_App/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/andrew/practice/fastestpath/client/android/Health_App/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/Users/andrew/practice/fastestpath/client/android/Health_App/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 64,
+                    "endOffset": 282
+                },
+                "from": {
+                    "file": "/Users/andrew/practice/fastestpath/client/android/Health_App/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 287,
+                    "endColumn": 49,
+                    "endOffset": 332
+                },
+                "from": {
+                    "file": "/Users/andrew/practice/fastestpath/client/android/Health_App/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 337,
+                    "endColumn": 44,
+                    "endOffset": 377
+                },
+                "from": {
+                    "file": "/Users/andrew/practice/fastestpath/client/android/Health_App/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 382,
+                    "endColumn": 43,
+                    "endOffset": 421
+                },
+                "from": {
+                    "file": "/Users/andrew/practice/fastestpath/client/android/Health_App/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 426,
+                    "endColumn": 41,
+                    "endOffset": 463
+                },
+                "from": {
+                    "file": "/Users/andrew/practice/fastestpath/client/android/Health_App/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 468,
+                    "endColumn": 43,
+                    "endOffset": 507
+                },
+                "from": {
+                    "file": "/Users/andrew/practice/fastestpath/client/android/Health_App/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 512,
+                    "endColumn": 46,
+                    "endOffset": 554
+                },
+                "from": {
+                    "file": "/Users/andrew/practice/fastestpath/client/android/Health_App/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 559,
+                    "endColumn": 41,
+                    "endOffset": 596
+                },
+                "from": {
+                    "file": "/Users/andrew/practice/fastestpath/client/android/Health_App/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 601,
+                    "endColumn": 42,
+                    "endOffset": 639
+                },
+                "from": {
+                    "file": "/Users/andrew/practice/fastestpath/client/android/Health_App/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 644,
+                    "endColumn": 42,
+                    "endOffset": 682
+                },
+                "from": {
+                    "file": "/Users/andrew/practice/fastestpath/client/android/Health_App/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 687,
+                    "endColumn": 47,
+                    "endOffset": 730
+                },
+                "from": {
+                    "file": "/Users/andrew/practice/fastestpath/client/android/Health_App/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1373,
+                        "endColumn": 47,
+                        "endOffset": 1416
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 735,
+                    "endColumn": 93,
+                    "endOffset": 824
+                },
+                "from": {
+                    "file": "/Users/andrew/practice/fastestpath/client/android/Health_App/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 829,
+                    "endColumn": 70,
+                    "endOffset": 895
+                },
+                "from": {
+                    "file": "/Users/andrew/practice/fastestpath/client/android/Health_App/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 900,
+                    "endColumn": 87,
+                    "endOffset": 983
+                },
+                "from": {
+                    "file": "/Users/andrew/practice/fastestpath/client/android/Health_App/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 988,
+                    "endColumn": 43,
+                    "endOffset": 1027
+                },
+                "from": {
+                    "file": "/Users/andrew/practice/fastestpath/client/android/Health_App/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1329,
+                        "endColumn": 43,
+                        "endOffset": 1368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1032,
+                    "endColumn": 87,
+                    "endOffset": 1115
+                },
+                "from": {
+                    "file": "/Users/andrew/practice/fastestpath/client/android/Health_App/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1120,
+                    "endColumn": 86,
+                    "endOffset": 1202
+                },
+                "from": {
+                    "file": "/Users/andrew/practice/fastestpath/client/android/Health_App/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1207,
+                    "endColumn": 75,
+                    "endOffset": 1278
+                },
+                "from": {
+                    "file": "/Users/andrew/practice/fastestpath/client/android/Health_App/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1283,
+                    "endColumn": 90,
+                    "endOffset": 1369
+                },
+                "from": {
+                    "file": "/Users/andrew/practice/fastestpath/client/android/Health_App/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1374,
+                    "endColumn": 70,
+                    "endOffset": 1440
+                },
+                "from": {
+                    "file": "/Users/andrew/practice/fastestpath/client/android/Health_App/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1445,
+                    "endColumn": 89,
+                    "endOffset": 1530
+                },
+                "from": {
+                    "file": "/Users/andrew/practice/fastestpath/client/android/Health_App/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1535,
+                    "endLine": 28,
+                    "endColumn": 12,
+                    "endOffset": 1613
+                },
+                "from": {
+                    "file": "/Users/andrew/practice/fastestpath/client/android/Health_App/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1618,
+                    "endLine": 31,
+                    "endColumn": 12,
+                    "endOffset": 1685
+                },
+                "from": {
+                    "file": "/Users/andrew/practice/fastestpath/client/android/Health_App/app/src/main/res/values/styles.xml"
+                }
+            }
+        ]
+    }
+]

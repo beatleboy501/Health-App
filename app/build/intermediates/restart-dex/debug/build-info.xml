@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="25"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="604070400718887"
+    token="-3972636700646879056"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="57" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="18" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/Users/andrew/practice/fastestpath/client/android/Health_App/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="603538565535983"
+        verifier="BINARY_MANIFEST_FILE_CHANGE" >
+        <artifact
+            location="/Users/andrew/practice/fastestpath/client/android/Health_App/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="604070400718887"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/andrew/practice/fastestpath/client/android/Health_App/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,114 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true"
+    android:gravity="center" >
+	
+	<LinearLayout android:orientation="vertical"
+	    android:layout_width="fill_parent"
+    	android:layout_height="wrap_content"
+		android:weightSum="1">
+    	
+	    <TextView
+	        android:id="@+id/weight_label"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="@string/weight_label"
+	        android:textAppearance="?android:attr/textAppearanceMedium" />
+	    <EditText
+	        android:id="@+id/edit_message"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:ems="10"
+	        android:hint="@string/edit_message"
+	        android:inputType="number" />
+	
+	    <TextView
+	        android:id="@+id/height_label"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="@string/height_label"
+	        android:textAppearance="?android:attr/textAppearanceMedium" />	
+	    <EditText
+	        android:id="@+id/edit_height"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:ems="10"
+	        android:hint="@string/edit_inches"
+	        android:inputType="number" />
+	
+	    <TextView
+	        android:id="@+id/waist_label"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="@string/waist_label"
+	        android:textAppearance="?android:attr/textAppearanceMedium" />
+	    <EditText
+	        android:id="@+id/edit_waist"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:ems="10"
+	        android:hint="@string/edit_inches"
+	        android:inputType="number" />
+	
+	    <TextView
+	        android:id="@+id/hips_label"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="@string/hips_label"
+	        android:textAppearance="?android:attr/textAppearanceMedium" />	
+	    <EditText
+	        android:id="@+id/edit_hips"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:ems="10"
+	        android:hint="@string/edit_inches"
+	        android:inputType="number" />
+
+	    <TextView
+	        android:id="@+id/neck_label"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="@string/neck_label"
+	        android:textAppearance="?android:attr/textAppearanceMedium" />	
+	    <EditText
+	        android:id="@+id/edit_neck"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:ems="10"
+	        android:hint="@string/edit_inches"
+	        android:inputType="number" />
+
+		<RadioGroup
+			android:id="@+id/radio_sex"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:orientation="horizontal"
+			android:layout_weight="0.42">
+			<RadioButton
+				android:text="@string/male_label"
+				android:textAppearance="?android:attr/textAppearanceMedium"
+				android:id="@+id/male_id"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_margin="10px"/>
+			<RadioButton
+				android:id="@+id/female_id"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:text="@string/female_label"
+				android:textAppearance="?android:attr/textAppearanceMedium"
+				android:layout_margin="10px"/>
+		</RadioGroup>
+
+		<Button
+			android:layout_margin="10px"
+			android:layout_gravity="center"
+	        android:layout_width="211dp"
+	        android:layout_height="wrap_content"
+	        android:onClick="sendMessage"
+	        android:text="@string/button_send"
+			android:id="@+id/button" />
+	</LinearLayout>
+</ScrollView>
